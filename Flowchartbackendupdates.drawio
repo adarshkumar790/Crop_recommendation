@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T02:25:46.397Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="f9lxmKeimOQh9t_49mwS" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T02:25:55.958Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="cP9-o-wR7LByAcjVIJYi" version="24.2.2" type="github">
   <diagram name="Page-1" id="sXRYX5HL8_ohyaCBxRMu">
     <mxGraphModel dx="880" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -101,49 +101,49 @@
         <mxCell id="GaO-K7H8E9QdrUe8bDi3-29" value="&lt;b&gt;Frontend data&lt;/b&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="305" y="900" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HTHB-UWN5St5r07xQnPi-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="HTHB-UWN5St5r07xQnPi-3">
+        <mxCell id="HTHB-UWN5St5r07xQnPi-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="HTHB-UWN5St5r07xQnPi-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="250" as="sourcePoint" />
             <mxPoint x="450" y="249" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HTHB-UWN5St5r07xQnPi-3" value="&lt;b&gt;Replicate_Api_Key&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HTHB-UWN5St5r07xQnPi-3" value="&lt;b&gt;Replicate_Api_Key&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="240" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HTHB-UWN5St5r07xQnPi-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="HTHB-UWN5St5r07xQnPi-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="530" as="sourcePoint" />
             <mxPoint x="530" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HTHB-UWN5St5r07xQnPi-5" value="&lt;b&gt;Together_API_Key&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HTHB-UWN5St5r07xQnPi-5" value="&lt;b&gt;Together_API_Key&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="520" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HTHB-UWN5St5r07xQnPi-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="HTHB-UWN5St5r07xQnPi-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="570" as="sourcePoint" />
             <mxPoint x="530" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HTHB-UWN5St5r07xQnPi-7" value="&lt;b&gt;Give prompt to togethe ai for what data i want &lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HTHB-UWN5St5r07xQnPi-7" value="&lt;b&gt;Give prompt to togethe ai for what data i want &lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="550" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HTHB-UWN5St5r07xQnPi-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="HTHB-UWN5St5r07xQnPi-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="674.5" as="sourcePoint" />
             <mxPoint x="530" y="674.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HTHB-UWN5St5r07xQnPi-10" value="&lt;b&gt;schema for what data i wan to store in convax database.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HTHB-UWN5St5r07xQnPi-10" value="&lt;b&gt;schema for what data i wan to store in convax database.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="650" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HTHB-UWN5St5r07xQnPi-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="HTHB-UWN5St5r07xQnPi-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="785" as="sourcePoint" />
             <mxPoint x="620" y="784.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HTHB-UWN5St5r07xQnPi-12" value="&lt;b&gt;inside writen saveSummary and get indvisual data from&amp;nbsp; convax&amp;nbsp; &lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HTHB-UWN5St5r07xQnPi-12" value="&lt;b&gt;inside writen saveSummary and get indvisual data from&amp;nbsp; convax&amp;nbsp; &lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
